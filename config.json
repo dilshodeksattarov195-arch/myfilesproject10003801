@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrelete",
+        "uuid": 17530212,
+        "checksum": "ffy2ls"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
